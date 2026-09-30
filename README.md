@@ -1,2 +1,2 @@
 # autocare-app
-BE - (Node.js + Express , MongoDB Atlas)     /     FE - (React Native)
+BE - (Node.js + Express , MongoDB Atlas)     /     FE - (React Native- Mobile)
